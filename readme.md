@@ -1,4 +1,4 @@
-# Product Landing Page
+# Product Landing Page - "Scythe"
 ### freeCodeCamp - Responsive Web Design Projects
 
 Product landing page for the boardgame "Scythe", build for freeCodeCamp's Responsive Web Design Certification. Although a fairly simple project it was a useful practice of my HTML, CSS and responsive web design skills.
